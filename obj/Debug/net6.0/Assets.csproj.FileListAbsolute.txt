@@ -1,0 +1,10 @@
+D:\Projetos\Unity\Project-01\Assets\obj\Debug\net6.0\Assets.csproj.AssemblyReference.cache
+D:\Projetos\Unity\Project-01\Assets\obj\Debug\net6.0\Assets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Unity\Project-01\Assets\obj\Debug\net6.0\Assets.AssemblyInfoInputs.cache
+D:\Projetos\Unity\Project-01\Assets\obj\Debug\net6.0\Assets.AssemblyInfo.cs
+D:\Projetos\Unity\Project-01\Assets\obj\Debug\net6.0\Assets.csproj.CoreCompileInputs.cache
+C:\Users\Richard Maia\Desktop\Assets-master\obj\Debug\net6.0\Assets.csproj.AssemblyReference.cache
+C:\Users\Richard Maia\Desktop\Assets-master\obj\Debug\net6.0\Assets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Maia\Desktop\Assets-master\obj\Debug\net6.0\Assets.AssemblyInfoInputs.cache
+C:\Users\Richard Maia\Desktop\Assets-master\obj\Debug\net6.0\Assets.AssemblyInfo.cs
+C:\Users\Richard Maia\Desktop\Assets-master\obj\Debug\net6.0\Assets.csproj.CoreCompileInputs.cache
